@@ -1,0 +1,2 @@
+# miniTCPserver
+基于TCP的简单服务器，使用多进程对每个客户进行服务，同时使用select来进行IO复用
