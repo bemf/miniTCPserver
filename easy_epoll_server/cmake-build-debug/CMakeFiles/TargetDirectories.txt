@@ -1,0 +1,3 @@
+/home/parallels/CLionProjects/easy_epoll_server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/parallels/CLionProjects/easy_epoll_server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/parallels/CLionProjects/easy_epoll_server/cmake-build-debug/CMakeFiles/easy_epoll_server.dir

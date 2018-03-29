@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/easy_epoll_server.dir/main.cpp.o CMakeFiles/easy_epoll_server.dir/common.cpp.o  -o easy_epoll_server 
